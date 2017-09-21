@@ -36,17 +36,17 @@ Work Experience
 ---------------
 * Economist, Ofcom – London/Edinburgh           September 2015-2017
 
- * Graduate economist with six monthly rotations in a variety of roles: 
+* * Graduate economist with six monthly rotations in a variety of roles: 
 
- * 1st rotation, BCMR & BCMR appeal: market definition, industrial organisation and advanced microeconomics 
+* * 1st rotation, BCMR & BCMR appeal: market definition, industrial organisation and advanced microeconomics 
 
- * 2nd rotation, WLA charge control: Financial economics and price caps 
+* * 2nd rotation, WLA charge control: Financial economics and price caps 
 
- * 3rd rotation, Mobile Switching: cost benefit analysis/impact assessment, behavioural economics, consumer harm and barriers to switching
+* * 3rd rotation, Mobile Switching: cost benefit analysis/impact assessment, behavioural economics, consumer harm and barriers to switching
 
- * 4th rotation, Chief Economist Team: econometric analysis applying to a verity of projects 
+* * 4th rotation, Chief Economist Team: econometric analysis applying to a verity of projects 
 
- * Awarded management award prize in December 2016 for work on BCMR appeal 
+* * Awarded management award prize in December 2016 for work on BCMR appeal 
 
 * Business Analytics, Microsoft- ReadingJuly 2013-August 2014 
 Business Analytics for the Xbox Live Business Marketing Team EMEA. Responsibilities included: 
