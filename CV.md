@@ -36,31 +36,31 @@ Work Experience
 ---------------
 * Economist, Ofcom – London/Edinburgh           September 2015-2017
 
-* * Graduate economist with six monthly rotations in a variety of roles: 
+  * Graduate economist with six monthly rotations in a variety of roles: 
 
-* * 1st rotation, BCMR & BCMR appeal: market definition, industrial organisation and advanced microeconomics 
+   * 1st rotation, BCMR & BCMR appeal: market definition, industrial organisation and advanced microeconomics 
 
-* * 2nd rotation, WLA charge control: Financial economics and price caps 
+  * 2nd rotation, WLA charge control: Financial economics and price caps 
 
-* * 3rd rotation, Mobile Switching: cost benefit analysis/impact assessment, behavioural economics, consumer harm and barriers to switching
+  * 3rd rotation, Mobile Switching: cost benefit analysis/impact assessment, behavioural economics, consumer harm and barriers to switching
 
-* * 4th rotation, Chief Economist Team: econometric analysis applying to a verity of projects 
+  * 4th rotation, Chief Economist Team: econometric analysis applying to a verity of projects 
 
-* * Awarded management award prize in December 2016 for work on BCMR appeal 
+  * Awarded management award prize in December 2016 for work on BCMR appeal 
 
 * Business Analytics, Microsoft- ReadingJuly 2013-August 2014 
-Business Analytics for the Xbox Live Business Marketing Team EMEA. Responsibilities included: 
-Weekly/Monthly tracking of the entire key performance indicators in the Games and Video business by building complex models and pivots in Excel. 
-Creating automated reporting files to assist Video team in their reporting/analysis using formulas and slicers to track the rhythm of the business. 
-Analysing performance and presenting results and analysis of campaigns to partners such as Warner Bros., Fox, Sony, Disney at their London headquarters,   
-Managing and tracking performance of price led rooms in 14 countries. This involved communication with partners, the US operations team and the EMEA DASH team. 
+ * Business Analytics for the Xbox Live Business Marketing Team EMEA. Responsibilities included: 
+ * Weekly/Monthly tracking of the entire key performance indicators in the Games and Video business by building complex models and pivots in Excel. 
+ * Creating automated reporting files to assist Video team in their reporting/analysis using formulas and slicers to track the rhythm of the business. 
+ * Analysing performance and presenting results and analysis of campaigns to partners such as Warner Bros., Fox, Sony, Disney at their London headquarters,   
+ * Managing and tracking performance of price led rooms in 14 countries. This involved communication with partners, the US operations team and the EMEA DASH team. 
 * Research team, Peel Hunt Broking House- LondonSummer 2012 
- * Researched and presented a detailed report analysing stocks and predicting future growth patterns on a range of companies in a variety of sectors. 
- * Participated in meetings with executives and clients regarding prospective investment opportunities and updates on the financial markets. 
- * Constructed models using Excel containing information covering a range of companies’ performance and balance sheets to assist in the investment process. 
+  * Researched and presented a detailed report analysing stocks and predicting future growth patterns on a range of companies in a variety of sectors. 
+  * Participated in meetings with executives and clients regarding prospective investment opportunities and updates on the financial markets. 
+  * Constructed models using Excel containing information covering a range of companies’ performance and balance sheets to assist in the investment process. 
 * Business Development, Investec Specialised Lending- LondonSummer 2012 
- * Creatively tracked down potential clients through advanced Internet tools and other applications such as Bloomberg, gathering information such as market cap, liquidity. The information gathered was at the centre of the team's business development plan for the following six months. 
- * Worked as the sole business development officer within a team consisting of five experienced specialised lending experts. 
+  * Creatively tracked down potential clients through advanced Internet tools and other applications such as Bloomberg, gathering information such as market cap, liquidity. The information gathered was at the centre of the team's business development plan for the following six months. 
+  * Worked as the sole business development officer within a team consisting of five experienced specialised lending experts. 
 
 
 Interests 
