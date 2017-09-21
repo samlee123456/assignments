@@ -14,13 +14,7 @@ Education
 * University of Bath                BSc (Hons) Economics             2011 – 2015          
 Degree Classification: 2.1 (final year score: 66%, overall mark, 63%) 
  
-Final year Modules included: 
- 
-Advanced Microeconomics 
-Advanced Macroeconomics 
-Industrial Organisation 
-Econometrics 
-Game theory 
+Final year Modules included Advanced Microeconomics, Advanced Macroeconomics, Industrial Organisation, Econometrics and Game theory 
  
 Achievements: Published 1st graded paper on the consequences of opportunity cost calculations of REDD+ programmes in Tanzania, Captain & manager of football team, Head of marketing for Economics Society 
 
@@ -49,11 +43,11 @@ Work Experience
   * Awarded management award prize in December 2016 for work on BCMR appeal 
 
 * Business Analytics, Microsoft- ReadingJuly 2013-August 2014 
- * Business Analytics for the Xbox Live Business Marketing Team EMEA. Responsibilities included: 
- * Weekly/Monthly tracking of the entire key performance indicators in the Games and Video business by building complex models and pivots in Excel. 
- * Creating automated reporting files to assist Video team in their reporting/analysis using formulas and slicers to track the rhythm of the business. 
- * Analysing performance and presenting results and analysis of campaigns to partners such as Warner Bros., Fox, Sony, Disney at their London headquarters,   
- * Managing and tracking performance of price led rooms in 14 countries. This involved communication with partners, the US operations team and the EMEA DASH team. 
+  * Business Analytics for the Xbox Live Business Marketing Team EMEA. Responsibilities included: 
+  * Weekly/Monthly tracking of the entire key performance indicators in the Games and Video business by building complex models and pivots in Excel. 
+  * Creating automated reporting files to assist Video team in their reporting/analysis using formulas and slicers to track the rhythm of the business. 
+  * Analysing performance and presenting results and analysis of campaigns to partners such as Warner Bros., Fox, Sony, Disney at their London headquarters,   
+  * Managing and tracking performance of price led rooms in 14 countries. This involved communication with partners, the US operations team and the EMEA DASH team. 
 * Research team, Peel Hunt Broking House- LondonSummer 2012 
   * Researched and presented a detailed report analysing stocks and predicting future growth patterns on a range of companies in a variety of sectors. 
   * Participated in meetings with executives and clients regarding prospective investment opportunities and updates on the financial markets. 
