@@ -12,19 +12,19 @@ Education
 ---------
 
 * University of Bath                BSc (Hons) Economics             2011 – 2015          
- * Degree Classification: 2.1 (final year score: 66%, overall mark, 63%) 
+  * Degree Classification: 2.1 (final year score: 66%, overall mark, 63%) 
  
- * Final year Modules included Advanced Microeconomics, Advanced Macroeconomics, Industrial Organisation, Econometrics and Game theory 
+  * Final year Modules included Advanced Microeconomics, Advanced Macroeconomics, Industrial Organisation, Econometrics and Game theory 
  
- * Achievements: Published 1st graded paper on the consequences of opportunity cost calculations of REDD+ programmes in Tanzania, Captain & manager of football team, Head of marketing for Economics Society 
+  * Achievements: Published 1st graded paper on the consequences of opportunity cost calculations of REDD+ programmes in Tanzania, Captain & manager of football team, Head of marketing for Economics Society 
 
 
 * Westcliff High School for Boys       2003 – 2010 
- * A Level: Economics- A, Mathematics- A*, Politics- A, Psychology (AS)- B, General Studies-B 
+  * A Level: Economics- A, Mathematics- A*, Politics- A, Psychology (AS)- B, General Studies-B 
 
- * GCSE: 2 A*s (Mathematics & English Literature), 5 As, 3 Bs 
+  * GCSE: 2 A*s (Mathematics & English Literature), 5 As, 3 Bs 
 
- * Achievements: Honorary senior and junior school Colours in Football, Basketball, Athletics. Selected to visit 10 Downing Street following a nationwide school politics competition. Selected by senior staff to be part of the KS4 disciplinary committee. Achieved highest level in all KS3 fields (Maths 8/8, English 7/7, Science 7/7). 
+  * Achievements: Honorary senior and junior school Colours in Football, Basketball, Athletics. Selected to visit 10 Downing Street following a nationwide school politics competition. Selected by senior staff to be part of the KS4 disciplinary committee. Achieved highest level in all KS3 fields (Maths 8/8, English 7/7, Science 7/7). 
 
 Work Experience 
 ---------------
